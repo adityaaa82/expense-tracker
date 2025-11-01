@@ -1,6 +1,6 @@
 # Expense Tracker
 
-A simple full-stack finance tracker that helps monitor income and expenses with visual insights.
+A simple full-stack expense tracker that helps monitor income and expenses with visual insights.
 
 ## Overview
 The app lets users record, edit, and categorize transactions, then view totals and comparisons through responsive charts.  
